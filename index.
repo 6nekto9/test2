@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML, CSS and JavaScript demo</title>
+</head>
+<body>
+<!-- Start your code here -->
+<img class="tint" src="https://www.rgo.ru/sites/default/files/node/69160/photo-2023-10-30-123106.jpeg"width="800 px"/>
+  <div class="centred"> 
+ <form> <h1>
+Индекс: <input type = "text" class = "test1" ><br><br>
+Город: <input type = "text" class = "test1" ><br><br>
+Улица: <input type = "text" class = "test2" ><br><br>
+Дом: <input type = "text" class = "test1" ><br><br>
+Квартира: <input type = "text" class = "test1" ><br><br>
+ФИО: <input type = "text" class = "test1" ><br><br>
+</form>
+  <button class="test1">Отправить</button>
+    </div>
+
+
+<!-- End your code here -->
+</body>
+</html>
