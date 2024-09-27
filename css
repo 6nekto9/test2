@@ -1,0 +1,21 @@
+.centred { position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+.tint{opacity: 90%;
+ position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+
+input.test1:focus {
+background-color:  rgb(142, 142, 234, 0.853); 
+}
+input.test2:focus {
+background-color: rgb(142, 142, 234, 0.853); 
+align-items right: 80px;} 
+FORM {font-family: Lucida Sans Unicode; font-style: bold ; }
+h1 {font-size: 20px; }
+button.test1 { font-family: Helvetica; font-size: 30px; transform: translate(40%, 80%); 
+color: white;
+background-color: rgb(235, 75, 17); }
